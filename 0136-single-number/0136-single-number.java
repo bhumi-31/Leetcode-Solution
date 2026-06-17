@@ -2,19 +2,18 @@ class Solution {
     public int singleNumber(int[] nums) {
         int n = nums.length;
 
-        for(int i = 0; i < n; i++){
-            int num = nums[i];
-            int count = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-            for(int j = 0; j < n; j++){
-                if(nums[j] == num){
-                    count++;
-                }
-            }
-            if(count == 1){
-                return num;
+        for(int num : nums){
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+            if(entry.getValue() == 1){
+                return entry.getKey();
             }
         }
+
         return -1;
     }
 }
