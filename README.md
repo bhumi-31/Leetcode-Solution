@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
