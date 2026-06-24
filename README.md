@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0035-search-insert-position) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
