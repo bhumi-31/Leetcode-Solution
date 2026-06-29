@@ -4,17 +4,16 @@ class Solution {
         int ei = nums.length - 1;
 
         while(si <= ei){
-            int mid = si +(ei - si)/2;
+            int mid = si + (ei - si)/2;
 
             if(nums[mid] == target){
                 return mid;
             }else if(nums[mid] > target){
                 ei = mid - 1;
             }else{
-                si = mid + 1;
+                si = mid  + 1;
             }
         }
-
         return si;
     }
 }
