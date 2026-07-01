@@ -1,60 +1,53 @@
 class Solution {
     public int findMin(int[] bloomDay){
-        int mini = bloomDay[0];
-
+        int mini = 0;
         for(int b : bloomDay){
-            mini = Math.min(b, mini);
+            mini = Math.min(mini, b);
         }
 
         return mini;
     }
 
     public int findMax(int[] bloomDay){
-        int maxi = bloomDay[0];
-
+        int maxi = 0;
         for(int b : bloomDay){
-            maxi = Math.max(b, maxi);
+            maxi = Math.max(maxi, b);
         }
 
         return maxi;
     }
 
-    public boolean canMake(int[] bloomDay, int m, int k, int days){
-        int flowerBloom = 0;
-        int bouquet = 0;
+    public boolean canBloom(int[] bloomDay, int days, int m, int k){
+        int count = 0;
+        int noOfBucket = 0;
 
         for(int i = 0; i < bloomDay.length; i++){
             if(bloomDay[i] <= days){
-                flowerBloom++;
+                count++;
             }else{
-                flowerBloom = 0;
-            }
-
-            if(flowerBloom == k){
-                bouquet++;
-                flowerBloom = 0;
+                noOfBucket += count/k;
+                count = 0;
             }
         }
 
-        return bouquet >= m;
+        noOfBucket += count/k;
+        return noOfBucket >= m;
     }
     public int minDays(int[] bloomDay, int m, int k) {
         int start = findMin(bloomDay);
         int end = findMax(bloomDay);
-
         int ans = -1;
 
         while(start <= end){
             int mid = start + (end - start)/2;
 
-            if(canMake(bloomDay, m, k, mid)){
+            if(canBloom(bloomDay, mid, m, k)){
                 ans = mid;
                 end = mid - 1;
             }else{
                 start = mid + 1;
             }
         }
-
         return ans;
     }
 }
