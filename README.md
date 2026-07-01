@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0704-binary-search) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
