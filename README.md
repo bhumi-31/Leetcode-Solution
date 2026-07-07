@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
