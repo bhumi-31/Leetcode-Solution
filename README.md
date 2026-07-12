@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
