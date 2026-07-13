@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
