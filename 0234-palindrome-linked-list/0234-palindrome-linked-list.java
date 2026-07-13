@@ -20,19 +20,9 @@ class Solution {
 
         return slow;
     }
-    public boolean isPalindrome(ListNode head) {
-        if(head == null){
-            return true;
-        }
-
-        if(head.next == null){
-            return true;
-        }
-
-        ListNode mid = findMid(head);
-
+    public ListNode findRev(ListNode head){
         ListNode prev = null;
-        ListNode curr = mid;
+        ListNode curr = head;
         ListNode next;
 
         while(curr != null){
@@ -42,9 +32,22 @@ class Solution {
             curr = next;
         }
 
+        return prev;
+    }
+    public boolean isPalindrome(ListNode head) {
+        if(head.next == null){
+            return true;
+        }
+
+        ListNode mid = findMid(head);
+        ListNode second = mid;
+
+
+        ListNode rev = findRev(second);
+
 
         ListNode left = head;
-        ListNode right = prev;
+        ListNode right = rev;
 
         while(left != null && right != null){
             if(left.val != right.val){
