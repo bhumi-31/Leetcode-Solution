@@ -4,29 +4,19 @@ class Solution {
 
         int n = arr.length ;
 
-        int peak = 0;
-        for (int i = 1; i < n; i++) {
-            if (arr[i] > arr[peak]) {
-                peak = i;
-            }
+        int i = 0;
+        while(i + 1 < n && arr[i] < arr[i+1]){
+            i++;
         }
 
-        if(peak == 0 || peak == n - 1){
+        if(i == 0 || i == n - 1){
             return false;
         }
 
-        for(int i = 0; i < peak; i++){
-            if(arr[i] >= arr[i+1]){
-                return false;
-            }
+        while(i + 1 < n && arr[i] > arr[i+1]){
+            i++;
         }
 
-        for(int i  = peak; i < n - 1; i++){
-            if(arr[i] <= arr[i+1]){
-                return false;
-            }
-        }
-
-        return true;
+        return i == n - 1;
     }
 }
