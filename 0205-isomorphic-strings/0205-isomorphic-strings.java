@@ -4,8 +4,8 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Character> mapST = new HashMap<>();
-        HashMap<Character, Character> mapTS = new HashMap<>();
+        HashMap<Character,Character> mapST = new HashMap<>();
+        HashMap<Character,Character> mapTS = new HashMap<>();
 
         for(int i = 0; i < s.length(); i++){
             char ch1 = s.charAt(i);
@@ -19,7 +19,6 @@ class Solution {
                 mapST.put(ch1, ch2);
             }
 
-
             if(mapTS.containsKey(ch2)){
                 if(mapTS.get(ch2) != ch1){
                     return false;
@@ -28,7 +27,6 @@ class Solution {
                 mapTS.put(ch2, ch1);
             }
         }
-
         return true;
     }
 }
