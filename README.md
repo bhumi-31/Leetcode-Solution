@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 ## Recursion
 |  |
 | ------- |
