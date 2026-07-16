@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Queue
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
