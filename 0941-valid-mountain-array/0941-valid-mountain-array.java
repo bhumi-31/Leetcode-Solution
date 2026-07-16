@@ -17,6 +17,9 @@ class Solution {
             i++;
         }
 
-        return i == n - 1;
+        if(i == n-1) {
+            return true;
+        }
+        return false;
     }
 }
