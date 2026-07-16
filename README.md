@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1544-make-the-string-great) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1544-make-the-string-great) |
 ## Recursion
