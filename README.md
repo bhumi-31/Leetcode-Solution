@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 ## Binary Tree
 |  |
 | ------- |
