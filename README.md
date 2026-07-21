@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
