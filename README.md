@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
+| [1609-even-odd-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1609-even-odd-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1609-even-odd-tree) |
 ## Design
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
+| [1609-even-odd-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1609-even-odd-tree) |
 ## Linked List
 |  |
 | ------- |
