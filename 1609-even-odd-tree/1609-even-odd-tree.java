@@ -22,7 +22,7 @@ class Solution {
 
         while(!q.isEmpty()){
             int size = q.size();
-            int prev = 0;
+            TreeNode prev = null;
 
             for(int i = 0; i < size; i++){
                 TreeNode curr = q.poll();
@@ -31,7 +31,7 @@ class Solution {
                         return false;
                     }
 
-                    if(i > 0 && curr.val <= prev){
+                    if(prev != null && curr.val <= prev.val){
                         return false;
                     }
                 }
@@ -41,12 +41,12 @@ class Solution {
                         return false;
                     }
 
-                    if(i > 0 && curr.val >= prev){
+                    if(prev != null && curr.val >= prev.val){
                         return false;
                     }
                 }
 
-                prev = curr.val;
+                prev = curr;
 
                 if(curr.left != null){
                     q.add(curr.left);
