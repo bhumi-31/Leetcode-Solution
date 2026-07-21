@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0832-flipping-an-image) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Number Theory
 |  |
 | ------- |
