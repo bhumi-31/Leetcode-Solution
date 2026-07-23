@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    int diameter = 0;
     public int height(TreeNode root) {
         if(root == null){
             return 0;
@@ -21,22 +22,13 @@ class Solution {
 
         int left = height(root.left);
         int right = height(root.right);
+
+        diameter = Math.max(diameter, left + right);
         return 1 + Math.max(left, right);
     }
        
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null){
-            return 0;
-        }
-
-        int left = height(root.left);
-        int right = height(root.right);
-
-        int currdiam = left + right;
-
-        int leftDiam = diameterOfBinaryTree(root.left);
-        int rightDiam = diameterOfBinaryTree(root.right);
-
-        return Math.max(currdiam, Math.max(leftDiam, rightDiam));
+        height(root);
+        return diameter;
     }
 }
