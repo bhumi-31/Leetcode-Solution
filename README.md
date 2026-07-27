@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1552-magnetic-force-between-two-balls) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
