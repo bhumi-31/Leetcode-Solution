@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0832-flipping-an-image) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0506-relative-ranks) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
