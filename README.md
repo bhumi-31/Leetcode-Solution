@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Array
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -571,4 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
