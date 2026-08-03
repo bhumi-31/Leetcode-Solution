@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0506-relative-ranks) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
