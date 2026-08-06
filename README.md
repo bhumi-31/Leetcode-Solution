@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 ## Tree
 |  |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1609-even-odd-tree) |
 ## Design
@@ -586,4 +589,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
