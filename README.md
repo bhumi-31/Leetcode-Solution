@@ -622,4 +622,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
