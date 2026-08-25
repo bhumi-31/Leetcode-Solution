@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0832-flipping-an-image](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2326-spiral-matrix-iv) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1609-even-odd-tree) |
 ## Design
 |  |
