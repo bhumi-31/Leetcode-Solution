@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
