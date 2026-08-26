@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0547-number-of-provinces) |
