@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0072-edit-distance) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0118-pascals-triangle) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0394-decode-string) |
