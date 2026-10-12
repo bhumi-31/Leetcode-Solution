@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0682-baseball-game) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
