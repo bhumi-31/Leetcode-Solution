@@ -1,10 +1,12 @@
 class Solution {
     public int compress(char[] chars) {
-        ArrayList<Character> ans = new ArrayList<>();
+        int index = 0;
         int i = 0;
+
         while(i < chars.length){
             int count = 1;
             int j;
+
             for(j = i + 1; j < chars.length; j++){
                 if(chars[j] == chars[i]){
                     count++;
@@ -12,19 +14,22 @@ class Solution {
                     break;
                 }
             }
-            ans.add(chars[i]);
+
+            chars[index] = chars[i];
+            index++;
+
             if(count > 1){
-                for (char c : String.valueOf(count).toCharArray()) {
-                    ans.add(c);
+                String num = String.valueOf(count);
+
+                for(char ch : num.toCharArray()){
+                    chars[index] = ch;
+                    index++;
                 }
             }
+
             i = j;
         }
 
-        for(int k = 0; k < ans.size(); k++){
-            chars[k] = ans.get(k);
-        }
-
-        return ans.size();
+        return index;
     }
 }
