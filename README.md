@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Binary Search
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhumi-31/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bhumi-31/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
