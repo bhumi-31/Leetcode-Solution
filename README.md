@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -342,12 +345,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 ## Simulation
 |  |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -640,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -648,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
