@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
