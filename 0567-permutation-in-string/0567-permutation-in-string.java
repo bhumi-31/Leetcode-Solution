@@ -1,34 +1,33 @@
 class Solution {
-    public boolean isSame(int[] window, int[] freq){
-        for(int i = 0; i < 26; i++){
-            if(window[i] != freq[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     public boolean checkInclusion(String s1, String s2) {
-        if(s1.length() > s2.length()){
-            return false;
-        }
-        int[] window = new int[26];
-        int[] freq = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
 
         for(int i = 0; i < s1.length(); i++){
-            freq[s1.charAt(i) - 'a']++;
+            char ch = s1.charAt(i);
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
         int left = 0;
-        for(int right = 0; right < s2.length(); right++){
-            window[s2.charAt(right) - 'a']++;
+        HashMap<Character, Integer> window = new HashMap<>();
+        for(int i = 0; i < s2.length(); i++){
+            char ch = s2.charAt(i);
 
-            if(right - left + 1 > s1.length()){
-                window[s2.charAt(left) - 'a']--;
+            window.put(ch, window.getOrDefault(ch, 0) + 1);
+
+            if((i - left + 1) > s1.length()){
+                char leftChar = s2.charAt(left);
+
+                window.put(leftChar, window.get(leftChar) - 1);
+
+                if(window.get(leftChar) == 0){
+                    window.remove(leftChar);
+                }
+
                 left++;
             }
 
-            if(right - left + 1 == s1.length()){
-                if(isSame(window, freq)){
+            if(i - left + 1 == s1.length()){
+                if(map.equals(window)){
                     return true;
                 }
             }
