@@ -705,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhumi-31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
